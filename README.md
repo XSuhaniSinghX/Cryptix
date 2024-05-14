@@ -21,7 +21,7 @@ These instructions will get you a copy of the project up and running on your loc
 ### Installation
 
 1. Clone the repository to your local machine using Git:
-git clone https://github.com/XSuhsniSinghX/Cryptix.git
+git clone https://github.com/XSuhaniSinghX/Cryptix.git
 
 
 2. Open the project in your Java IDE.
