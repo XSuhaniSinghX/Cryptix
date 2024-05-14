@@ -7,7 +7,7 @@ import java.util.Base64;
 
 public class CryptoUtils {
     private static final String TRANSFORMATION = "AES/CBC/PKCS5Padding";
-    private static final byte[] IV = new byte[16]; // Use a proper IV in a real application
+    private static final byte[] IV = new byte[16];
 
     public static String encrypt(String input, SecretKey key) throws Exception {
         Cipher cipher = Cipher.getInstance(TRANSFORMATION);
